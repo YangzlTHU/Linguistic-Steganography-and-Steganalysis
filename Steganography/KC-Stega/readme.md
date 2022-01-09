@@ -44,3 +44,7 @@ self.truncated_vocab_size=5000 # Dynamic truncated vocabunary size
 ### Baselines
 
 Baseline model (TA-Stega) please refer to `./baselines` folder.
+
+### Acknowlege
+
+The base language model adopts some practice from [Long and Diverse Text Generation with Planning-based Hierarchical Variational Model](https://arxiv.org/pdf/1908.06605.pdf) from this [repo](https://github.com/ZhihongShao/Planning-based-Hierarchical-Variational-Model). Thanks a lot !!
