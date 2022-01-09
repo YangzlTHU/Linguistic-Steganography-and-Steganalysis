@@ -15,7 +15,7 @@ see `requirements.txt` for environment details，use command `pip install -r req
 Use Taobao E-commerse dataset
 
 1. Download `data.zip` from [Baidu Drive](https://pan.baidu.com/s/1IvftE4iP9R6gplZpLxDoMw ) with password `7k12` or from [Google Drive](https://drive.google.com/file/d/1f4mk6z7zaAeC4fxmruBeku5IZtkxCfxt/view?usp=sharing), and unzip it under the root folder.
-2. Download `checkpoints.zip` from [Baidu Drive](https://pan.baidu.com/s/1dvSsvWYaD3WgVrtoUPBklg) with password `98x1` or from [Google Drive](), and unzip it under the  `./result` folder.
+2. Download `checkpoints.zip` from [Baidu Drive](https://pan.baidu.com/s/1dvSsvWYaD3WgVrtoUPBklg) with password `98x1` or from [Google Drive](https://drive.google.com/drive/folders/1__jYKLz4uY9A87HLhyE6DUo5yYYGNNyb?usp=sharing), and unzip it under the  `./result` folder.
 3. Use the following command to generate keyword constrained stego texts.
 
 ```python
