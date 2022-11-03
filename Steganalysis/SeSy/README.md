@@ -54,7 +54,7 @@ criminator makes a decision whether the carrier under test is steganographic.
 
 # Experiments
 
-
+<div align=center><img src=https://github.com/YangzlTHU/Linguistic-Steganography-and-Steganalysis/blob/master/Steganalysis/SeSy/sesy-table1.png  width="700" height="300"></div>
 
 # Codes
 [SeSy](https://github.com/yjs1224/SeSy) or [TextSteganalysis](https://github.com/yjs1224/TextSteganalysis)
