@@ -62,11 +62,13 @@ criminator makes a decision whether the carrier under test is steganographic.
 ## For details of the methods and results, please refer to our paper.
 
 ```bibtex 
-@inproceedings{zhang2021provably,
-  title={Provably Secure Generative Linguistic Steganography},
-  author={Zhang, Siyu and Yang, Zhongliang and Yang, Jinshuai and Huang, Yongfeng}, 
-  booktitle={Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021},
-  pages={3046--3055}, 
-  year={2021}
- }
+@article{yang2021sesy,
+  title={SeSy: Linguistic Steganalysis Framework Integrating Semantic and Syntactic Features},
+  author={Yang, Jinshuai and Yang, Zhongliang and Zhang, Siyu and Tu, Haoqin and Huang, Yongfeng},
+  journal={IEEE Signal Processing Letters},
+  volume={29},
+  pages={31--35},
+  year={2021},
+  publisher={IEEE}
+}
 ```
